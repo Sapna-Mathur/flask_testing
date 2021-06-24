@@ -1,0 +1,14 @@
+certifi==2021.5.30
+click==8.0.1
+colorama==0.4.4
+flask==2.0.1
+gunicorn==20.1.0
+importlib-metadata==4.5.0
+itsdangerous==2.0.1
+jinja2==3.0.1
+markupsafe==2.0.1
+typing-extensions==3.10.0.0
+vc==14.2
+werkzeug==2.0.1
+wincertstore==0.2
+zipp==3.4.1
